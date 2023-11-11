@@ -1,6 +1,6 @@
 # ITI Community Tasks Repository
 
-This is  ITI Community Tasks Repository! This repository is a space for task delevery 
+ITI Community Tasks Repository! This repository is a space for task delevery 
 
 ## Folder Structure
 
