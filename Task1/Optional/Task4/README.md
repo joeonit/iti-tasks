@@ -54,7 +54,7 @@
     - central version control CVC
     - distributed version control  like git
         
-        ![Screenshot 2023-11-05 at 6.38.36 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d01024d7-6263-42a2-8153-1237e48747ec/c67f7ead-b40a-4622-b1bf-0d0c848a9cb8/Screenshot_2023-11-05_at_6.38.36_AM.png)
+        ![Screenshot 2023-11-05 at 6.38.36 AM.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/d01024d7-6263-42a2-8153-1237e48747ec/c67f7ead-b40a-4622-b1bf-0d0c848a9cb8/Screenshot_2023-11-05_at_6.38.36_AM.png)](https://github.com/joeonit/iti-tasks/blob/main/Task1/Optional/Task4/images/Screenshot_2023-11-05_at_6.38.36_AM.png)
         
 
 ---
@@ -63,7 +63,7 @@
 
 - differential version control
     
-    ![Screenshot 2023-11-05 at 7.08.23 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d01024d7-6263-42a2-8153-1237e48747ec/4391912e-d85c-44d0-9bbe-87f40bd869ed/Screenshot_2023-11-05_at_7.08.23_AM.png)
+    ![Screenshot 2023-11-05 at 7.08.23 AM.png](Task1/Optional/Task4/images/Screenshot_2023-11-05_at_6.38.36_AM.png)
     
 - snapshot version control
     
@@ -103,7 +103,7 @@ Rather than the differential version control git takes a snapshot of the entire 
     
     - Git objects hierarchy
         
-        ![git higherarchy.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/d01024d7-6263-42a2-8153-1237e48747ec/32018f70-e0f6-447c-8a93-01e9a9547e66/git_higherarchy.png](https://drive.google.com/file/d/1Fl3VWx8P0v9z7dZU4VZGFjkfXOPTkgbe/view?usp=drive_link))
+        ![git higherarchy.png](./Task1/Optional/Task4/images/git_higherarchy.png)
         
     - Commands architecture in details
         
